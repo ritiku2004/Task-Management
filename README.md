@@ -2,6 +2,13 @@
 
 [Live Demo](https://task-management-pearl-two.vercel.app/)
 
+## Test Account
+
+You can use the following credentials to log in and test the application:
+
+- **Email:** tester@gmail.com
+- **Password:** test@123
+
 ## Screenshots
 
 ### Dashboard
