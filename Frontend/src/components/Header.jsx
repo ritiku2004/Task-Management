@@ -60,18 +60,18 @@ const Header = () => {
                                     <Transition
                                         as={Fragment}
                                         enter="transition ease-out duration-100"
-                                        enterFrom="transform opacity-0 scale-95"
+                                        enterFrom="transform opacity-100 scale-95"
                                         enterTo="transform opacity-100 scale-100"
                                         leave="transition ease-in duration-75"
                                         leaveFrom="transform opacity-100 scale-100"
-                                        leaveTo="transform opacity-0 scale-95"
+                                        leaveTo="transform opacity-100 scale-95"
                                     >
-                                        <Menu.Items className="origin-top-right absolute right-0 mt-2 w-48 rounded-xl shadow-lg py-1 bg-white/10 backdrop-blur-lg border border-white/20 focus:outline-none z-50">
+                                        <Menu.Items className="origin-top-right absolute right-0 mt-2 w-48 rounded-xl shadow-lg py-1 bg-gray-800 backdrop-blur-lg border border-white/20 focus:outline-none z-50">
                                             <Menu.Item>
                                                 {({ active }) => (
                                                     <button
                                                         onClick={logoutHandler}
-                                                        className={`${active ? "bg-indigo-600/60 text-white" : "text-gray-200"} group flex rounded-md items-center w-full px-4 py-2 text-sm transition`}
+                                                        className={`${active ? "bg-indigo-600/20 text-white" : "text-gray-200"} group flex rounded-md items-center w-full px-4 py-2 text-sm transition`}
                                                     >
                                                         <ArrowRightOnRectangleIcon className="mr-3 h-5 w-5 text-red-400" />
                                                         Logout

@@ -80,7 +80,7 @@ const TaskForm = () => {
 
   return (
     <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 py-10 px-4">
-      <div className="container mx-auto max-w-2xl">
+      <div className="container mx-auto max-w-2xl mt-12">
         <div className="bg-gradient-to-br from-indigo-600/20 via-violet-600/20 to-indigo-600/20 backdrop-blur-xl border border-white/20 shadow-2xl rounded-2xl overflow-hidden">
           <div className="px-6 py-5 border-b border-white/20">
             <h4 className="text-xl font-semibold text-white">

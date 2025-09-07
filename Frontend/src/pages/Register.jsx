@@ -47,7 +47,7 @@ const Register = () => {
 
   return (
     <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 px-4">
-      <div className="w-full max-w-md">
+      <div className="w-full max-w-md mt-8">
         <div className="bg-gradient-to-br from-indigo-600/20 via-violet-600/20 to-indigo-600/20 backdrop-blur-xl border border-white/20 shadow-2xl rounded-2xl p-8">
           <h3 className="text-3xl font-bold text-center bg-gradient-to-r from-indigo-300 to-violet-300 bg-clip-text text-transparent drop-shadow-sm mb-6">
             Create an Account

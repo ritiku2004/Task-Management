@@ -1,4 +1,22 @@
 # Task Management Project
+# Task Management Project
+
+[Live Demo](https://task-management-pearl-two.vercel.app/)
+# Task Management Project
+
+## Screenshots
+
+### Dashboard
+![Dashboard](Images/Dashboard.png)
+
+### Register Page
+![Register](Images/Register.png)
+
+### Create Task
+![Create Task](Images/CreateTask.png)
+
+### View Task
+![View Task](Images/ViewTask.png)
 
 A full-stack task management application built with Node.js (Express) for the backend and React (Vite + Tailwind CSS) for the frontend.
 
