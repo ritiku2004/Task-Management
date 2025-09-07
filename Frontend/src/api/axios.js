@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'http://localhost:5000/api',
+    baseURL: 'https://task-management-anmn.onrender.com/api',
 });
 
 // Request Interceptor: Attach the token to every request
