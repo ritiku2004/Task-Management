@@ -1,8 +1,6 @@
 # Task Management Project
-# Task Management Project
 
 [Live Demo](https://task-management-pearl-two.vercel.app/)
-# Task Management Project
 
 ## Screenshots
 
